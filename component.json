@@ -1,6 +1,6 @@
 {
   "name": "console",
-  "repository": "tipm/console",
+  "repository": "bh5-ti/console",
   "description": "Cleaner Titanium console output",
   "version": "0.1.0",
   "keywords": [],
